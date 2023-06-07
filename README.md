@@ -1,1 +1,1 @@
-just a simple example of task manager using python
+simple task manager using python
