@@ -10,7 +10,7 @@ name: Python Publish
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
